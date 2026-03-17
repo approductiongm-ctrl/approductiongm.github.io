@@ -11,7 +11,7 @@ Questa repository contiene la **Privacy Policy ufficiale** del gioco **FALLINGNU
 - **Nome**: FALLINGNUMBERS  
 - **Sviluppatore**: APproductionGM  
 - **Tipo**: Gioco HTML5 100% offline  
-- **Caratteristiche**: Nessuna pubblicità, nessun dato personale raccolto, nessun account richiesto  
+- **Caratteristiche**: ads presenti nel gioco, nessun dato personale raccolto da noi, nessun account richiesto  
 - **Piattaforme**: Android (Google Play) e browser web
 
 ### Contatti
